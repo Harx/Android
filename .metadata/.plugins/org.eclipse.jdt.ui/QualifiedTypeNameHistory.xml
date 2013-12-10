@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.example.firstharxapp.R.id"/>
+<fullyQualifiedTypeName name="com.example.cs1_switchpicture.R.drawable"/>
+<fullyQualifiedTypeName name="com.example.cs1_switchpicture.R.id"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="android.graphics.Canvas"/>
+<fullyQualifiedTypeName name="android.view.MotionEvent"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.graphics.Paint"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.util.AttributeSet"/>
+<fullyQualifiedTypeName name="com.example.cs3_neonlamp.R.color"/>
+<fullyQualifiedTypeName name="com.example.cs3_neonlamp.R"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.dimen"/>
+<fullyQualifiedTypeName name="com.example.cs3_neonlamp.R.id"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="java.util.logging.Handler"/>
+<fullyQualifiedTypeName name="android.webkit.WebView"/>
+<fullyQualifiedTypeName name="android.os.Handler"/>
+<fullyQualifiedTypeName name="android.os.Message"/>
+<fullyQualifiedTypeName name="com.example.d.R.layout"/>
+<fullyQualifiedTypeName name="com.example.d.R.id"/>
+<fullyQualifiedTypeName name="android.webkit.WebSettings"/>
+</qualifiedTypeNameHistroy>

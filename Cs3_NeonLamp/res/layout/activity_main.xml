@@ -1,0 +1,61 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/color1"
+        android:height="320dp"
+        android:width="320dp" />
+
+    <TextView
+        android:id="@+id/textview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/color2"
+        android:height="280dp"
+        android:width="280dp" />
+        
+     <TextView
+         android:id="@+id/textview3"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:background="@color/color3"
+         android:height="240dp"
+         android:width="240dp" />
+
+     <TextView
+         android:id="@+id/textview4"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:background="@color/color4"
+         android:height="200dp"
+         android:width="200dp" />
+          
+     <TextView
+         android:id="@+id/textview5"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:background="@color/color5"
+         android:height="160dp"
+         android:width="160dp" />          
+
+	  <TextView
+         android:id="@+id/textview6"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:background="@color/color6"
+         android:height="120dp"
+         android:width="120dp" />     
+</FrameLayout>
